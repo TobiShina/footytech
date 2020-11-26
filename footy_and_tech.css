@@ -1,3 +1,10 @@
+*{
+	font-family:sans-serif;
+  margin: 0;
+	border: 0;
+	padding: 0;
+	color:darkgreen;
+}
 Body{background: rgb(227,232,232);
 background: radial-gradient(circle, rgba(227,232,232,1) 0%, rgba(205,217,255,1) 100%);}
 nav{background: rgb(227,232,232);
